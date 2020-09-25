@@ -1,0 +1,36 @@
+Sep 25 10:26:02 mattruizdiaz-VirtualBox NetworkManager[499]: <warn>  [1601051162.7020] Error: failed to open /run/network/ifstate
+Sep 25 10:26:03 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 25 10:26:05 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 25 10:26:09 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 25 10:26:13 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 25 10:26:13 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 25 10:26:17 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 25 10:26:27 mattruizdiaz-VirtualBox /usr/lib/gdm3/gdm-x-session[1045]: #011(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+Sep 25 10:26:31 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 25 10:26:32 mattruizdiaz-VirtualBox gnome-session-c[1292]: Error creating FIFO: File exists
+Sep 25 10:26:49 mattruizdiaz-VirtualBox gnome-shell[1337]: Error looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+Sep 25 10:26:54 mattruizdiaz-VirtualBox pulseaudio[1002]: GetManagedObjects() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Sep 25 10:27:03 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 25 10:27:13 mattruizdiaz-VirtualBox gnome-shell[1337]: Error connecting to Nautilus
+Sep 25 10:27:38 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 25 10:27:38 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 25 10:28:07 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 25 10:29:06 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 25 10:29:06 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 25 10:29:06 mattruizdiaz-VirtualBox snap-store[1684]: not handling error failed for action refresh: E: Failed to fetch http://us.archive.ubuntu.com/ubuntu/dists/focal/InRelease  #012E: Failed to fetch http://us.archive.ubuntu.com/ubuntu/dists/focal-updates/InRelease  #012E: Failed to fetch http://us.archive.ubuntu.com/ubuntu/dists/focal-backports/InRelease  #012E: Failed to fetch http://security.ubuntu.com/ubuntu/dists/focal-security/InRelease  #012E: Failed to fetch https://deb.nodesource.com/node_12.x/dists/focal/InRelease  #012E: Some index files failed to download. They have been ignored, or old ones used instead.
+Sep 25 10:30:15 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 25 10:34:31 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 25 10:39:31 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 25 10:44:31 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 25 10:49:31 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 25 10:54:31 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 25 10:59:31 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 25 11:04:31 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 25 11:09:31 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 25 11:14:31 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 25 11:19:31 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 25 11:24:31 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 25 11:29:31 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 25 11:34:31 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 25 11:39:31 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 25 11:44:31 mattruizdiaz-VirtualBox systemd-resolved[453]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
